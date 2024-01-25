@@ -2,3 +2,30 @@
     text-align: right !important;
     padding-right: 20px !important;
 }
+
+.acc-icon {
+    padding-right: 10px !important;
+}
+
+.acc-text {
+    font-size: 20px;
+}
+
+body {
+    background-image: url('../../media/stone-background.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 100vh;
+}
+
+.home-logo {
+    height: 100px;
+}
+
+.main_logo {
+    position: absolute;
+    top: 50%;       
+    right: 50%;
+    transform: translate(50%,-50%);
+}
